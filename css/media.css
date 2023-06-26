@@ -1,0 +1,141 @@
+
+@media (min-width: 2560px){
+    .slide-text{
+        left: 26%;
+    }
+    .form_contain{
+        top: 20%;
+        right: 25%;
+    }
+}
+
+@media (max-width: 1920px){
+
+}
+
+@media (max-width: 1440px){
+   
+}
+@media (max-width: 1024px){
+  
+}
+
+@media (max-width: 992.99px) {
+    .qoute-btn, .form-wrap, .hide_wrap{
+        display: none;
+    }
+    .ic.menu {
+        top: 70px;
+        z-index: 20;
+    }
+    .form_respnsv, #hide{
+        display: inherit;
+    }
+    .slide-text {
+        top: 4%;
+        left: 4%;
+    }
+    .form_res_wrap {
+        background: #dfdfdf;
+        padding: 30px;
+        border-radius: 5px;
+        margin: 30px 0;
+    }
+    .cta_btn{
+        padding: 10px 15px;
+    }
+}
+@media (max-width: 768px) {
+    .qoute-btn, .form-wrap, .hide_wrap{
+        display: none;
+    }
+    .ic.menu {
+        top: 70px;
+        z-index: 20;
+    }
+    .form_respnsv, #hide{
+        display: inherit;
+    }
+    .slide-text {
+        top: 4%;
+    }
+    .form_res_wrap {
+        background: #dfdfdf;
+        padding: 30px;
+        border-radius: 5px;
+        margin: 30px 0;
+    }
+    .cta_btn{
+        padding: 10px 15px;
+    }
+}
+
+@media (max-width: 575px) {
+    #top-head, #insurense{
+        display: none;
+    }
+    #hide, #insurense_resp{
+        display: inherit;
+
+    background: #e5e5e5;padding: 30px 0;}
+    .hide_wrap li{
+        list-style: none;
+        margin: 30px 0;
+    }
+    .logo img{
+        max-width: 110px;
+    }
+    .hide_wrap h1{
+     font-weight: 700;   
+    color: #e9a67d;
+    font-size: 26px;
+    text-transform: uppercase;
+    }
+    .hide_wrap h2{
+        
+    color: #000;font-size: 22px;
+    }
+    .slide-text{
+        display: none;
+    }
+    .about_wrap h2{
+        font-size: 28px;
+    }
+    .ylp {
+        font-size: 30px;
+    }
+    .about_overlay{
+        padding: 30px 10px;
+    }
+    .about_wrap h3{
+        font-size: 24px;
+    }
+    .card_wrap, .foot_right{
+        text-align: center;
+    }
+    .cta_wrap{
+        padding: 30px 20px;
+    }
+    .foot__icon ul li i{
+        margin-right: 0;
+    }
+    .foot__icon ul{
+        justify-content: space-evenly;
+    }
+    .form-wrap{
+        display: none;
+    }
+    .form_respnsv{
+        display: inherit;
+    }
+    .form_res_wrap {
+        background: #ffffff;
+        padding: 30px;
+        border-radius: 5px;
+       
+    }
+    .ic.menu {
+        top: 28px;
+        z-index: 20;
+    }
+}
